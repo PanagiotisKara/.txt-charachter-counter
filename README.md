@@ -1,1 +1,1 @@
-# .txt-charachter-counter
+# .txt-character-counter
